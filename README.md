@@ -12,15 +12,6 @@ I'm web developer, specializing in Laravel, Shopify Theme, Bagisto and modern we
 - 🌱 Currently learning: Advanced Shopify Theme Development & AI Integration in Web Apps  
 - 🔍 Exploring: Headless CMS, Generative AI, and SEO optimization strategies  
 
----
-
-### 🛠️ Recent Projects
-
-- **Bagisto Extensions** – Created custom bagisto extension of Giftcard, ImageZoom, ImageCrop, PDF Generate, ConvertStore2Web etc.  
-- **Wi-Fi Password Manager** – A secure web application with Sign Up, Sign In, Logout functionality and GitHub authentication, featuring end-to-end encryption.
-
----
-
 ### 📫 Let’s Connect
 
 - 📧 Email: [kishankanani2369@gmail.com](mailto:kishanit2369@gmail.com)  
