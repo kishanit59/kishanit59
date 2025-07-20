@@ -23,7 +23,7 @@ I'm web developer, specializing in Laravel, Shopify Theme, Bagisto and modern we
 
 ### 📫 Let’s Connect
 
-- 📧 Email: [kishankanani59@gmail.com](mailto:kishanit59@gmail.com)  
+- 📧 Email: [kishankanani2369@gmail.com](mailto:kishanit2369@gmail.com)  
 - 🌐 Portfolio: [kishankanani.vercel.app](https://kishankanani.vercel.app/)  
 
 ---
